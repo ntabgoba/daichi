@@ -10,14 +10,14 @@ water2 <- read_csv("water2.csv")
 fish2 <- read_csv("fish2.csv")
 birds2 <- read_csv("birds2.csv")
 rice2 <- read_csv("rice2.csv")
-
+View(food2)
 shinyServer(function(input, output) {
         output$stapleFoodPlot <- renderPlot({
                 if(input$food == "stapleFood"){
                         iso <- switch(input$iso,
                                       "Iodine_131" = food2$Iodine_131,
                                       "Cesium_134" = food2$Cesium_134,
-                                      "Cesium_137" = food2$Cesium_134)
+                                      "Cesium_137" = food2$Cesium_137)
                         ggplot(data = food2)+
                                 geom_bar(stat="identity",mapping = aes(x= date, y = iso,fill=food_categ,na.rm = TRUE))+
                                 labs(list(x= "From 2011", y= "in Becquerels"))+

@@ -4,20 +4,20 @@
 # The becquerel is therefore equivalent to an inverse second, 1/s
 # Example,The nuclear explosion in Hiroshima (An explosion of 16 kt or 67 TJ) is estimated to have produced 8×1024 Bq (8 YBq, 8 yottabecquerel)
 
-'''
-Due to the nature of the Fukushima Daichi releases, the major contaminants were isotopes of volatile elements: 
-Iodine-131 (8 day half-life), Tellurium-132 (3 day half-life), Cesium-134 (2 year half-life), 
-and Cesium-137 (30 year half-life) [Steinhauser et al. 2014].
-Because of the relatively short half-lives of 131I and 132Te, by 2014 these isotopes have 
-completely decayed away. This leaves 134Cs and 137Cs as the largest components of the initial 
-radioactive releases that could also still be in the environment. 
-The last piece of the puzzle is the ratio of 134Cs to 137Cs: it was approximately 0.9 in March 2011 [Kirchner et al. 2012]
 
-MEASUREMENTS
-1.Radiation emitted by a radioactive material (measured in units like curies and becquerels)
-2.Radiationenergy absorbed by a mass of material (measured in rad or gray), 
-3.Relative biological damage in the human body (using rem and sieverts), which depends on the type of radiation.
-'''
+# Due to the nature of the Fukushima Daichi releases, the major contaminants were isotopes of volatile elements: 
+# Iodine-131 (8 day half-life), Tellurium-132 (3 day half-life), Cesium-134 (2 year half-life), 
+# and Cesium-137 (30 year half-life) [Steinhauser et al. 2014].
+# Because of the relatively short half-lives of 131I and 132Te, by 2014 these isotopes have 
+# completely decayed away. This leaves 134Cs and 137Cs as the largest components of the initial 
+# radioactive releases that could also still be in the environment. 
+# The last piece of the puzzle is the ratio of 134Cs to 137Cs: it was approximately 0.9 in March 2011 [Kirchner et al. 2012]
+# 
+# MEASUREMENTS
+# 1.Radiation emitted by a radioactive material (measured in units like curies and becquerels)
+# 2.Radiationenergy absorbed by a mass of material (measured in rad or gray), 
+# 3.Relative biological damage in the human body (using rem and sieverts), which depends on the type of radiation.
+
 
 library(ggplot2)
 library(dplyr)
@@ -34,7 +34,7 @@ View(fish1)
 # What is the comparison of "Radioactivity", water-fish-rice-birds per;
 # 1.date, 2; One city e.g Nihomatsu,  3.Geographically, 4.Distance from TEPCO
 # FOOD
-View(food1)
+#View(food1)
 dim(food1) # 128402     46
 unique(food1$Item) #2308 unique food items
 unique(food1$`Food category`) # 9 Foot Categories
@@ -111,29 +111,35 @@ water <- select(water1,c(1,9,10,11,12,14,16))
 colnames(water) <- c("date","lat","lng","daichi_distance","Iodine_131","Cesium_134", "Cesium_137")
 ggplot(data = water,mapping = aes(x = date, y = Iodine_131, na.rm = TRUE))+
         geom_point(shape = 16) #Radiations appeared in drinking water in only the first few days
-View(water)
+#View(water)
 #assuming NAs are zero or negligible 
 water[is.na(water)] <- 0
 water1 <- as_data_frame(water)
 write_csv(water1, path = "water2.csv")
 
 # RICE
-View(rice1)
+#View(rice1)
 rice <- select(rice1,c(1,3,6))
 colnames(rice) <- c("date","city","Cesium_134_Plus_Cesium_137")
 ggplot(data = rice)+
         geom_point(mapping = aes(x = date, y = Cesium_134_Plus_Cesium_137,na.rm = TRUE))
-View(rice)
+# View(rice)
 write_csv(x=rice, path = "rice2.csv")
 
 #BIRDS and Animals
-View(birds1)
+#View(birds1)
 birds <- select(birds1, c(8,3,4,7,14))
 colnames(birds) <- c("date","origin_district","origin_municplty","item","Cesium_134_Plus_Cesium_137")
 View(birds)
 unique(birds$item) # 7types of animals/birds
 ggplot(data=birds)+
         geom_point(mapping = aes(x=date, y = Cesium_134_Plus_Cesium_137, color= item, na.rm =TRUE))
-birds <- na.omit(birds2)
+birds <- na.omit(birds) #omit all NAs
 write_csv(x=birds, path = "birds2.csv")
+
+#Dust
+dust <- read_csv("dust_sampling.csv")
+dim(dust)
+View(dust)
+dust1 <- select(dust, c(3,7))
 #End 

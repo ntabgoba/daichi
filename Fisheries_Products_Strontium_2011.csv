@@ -1,0 +1,93 @@
+﻿﻿Sampling date,Announcement date,Sampling point,Sampling coordinate North latitude (Decimal),Sampling coordinate East longitude (Decimal),Distance from TEPCO Fukushima Dai-ichi NPP (km),Type of sample,131I Radioactivity concentration (Bq/kg),131I Detection limit (Bq/kg),134Cs Radioactivity concentration (Bq/kg),134Cs Detection limit (Bq/kg),137Cs Radioactivity concentration (Bq/kg),137Cs Detection limit (Bq/kg),134Cs+137Cs Radioactivity concentration (Bq/kg),134Cs+137Cs Detection limit (Bq/kg),134Cs+137CsExceeded reference value ,89SrRadioactivity concenteration(Bq/kg),89SrDetectedLower Limit (Bq/kg),90SrRadioactivity concenteration(Bq/kg),90SrDetectedLower Limit (Bq/kg),238PuRadioactivity concenteration(Bq/kg),238PuDetectedLower Limit (Bq/kg),239Pu+240PuRadioactivity concenteration(Bq/kg),239Pu+240PuDetectedLower Limit (Bq/kg),241Am Radioactivity concentration (Bq/kg),241Am DetectedLower Limit (Bq/Kg),Remarks
+2011-04-06,2011-06-28,,35.600000,140.883333,203.0,Japanese sardine,4.9E+00,,4.4E+00,,4.1E+00,,,,,,,ND,4.0E-02,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2011-04-08,2011-06-28,,36.383333,140.650000,120.4,Japanese sandlance,6.0E+02,,3.8E+01,,4.3E+01,,,,,,,ND,2.0E-02,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2011-04-12,2011-06-28,,36.383333,140.650000,120.4,Japanese sandlance,4.0E+02,,3.3E+01,,3.3E+01,,,,,,,ND,3.0E-02,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2011-04-14,2011-06-28,,35.366666,140.900000,228.8,Anchovy,ND,,3.8E+00,,4.1E+00,,,,,,,ND,4.0E-02,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2011-04-21,2011-08-30,,37.633333,141.550000,51.4,Pacific cod,ND,,1.6E+01,,1.8E+01,,,,,ND,4.0E-02,ND,3.0E-02,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2011-04-22,2011-08-30,,36.466666,141.000000,106.2,Flathead flounder,ND,,1.5E+00,,1.8E+00,,,,,ND,3.0E-02,ND,3.0E-02,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2011-05-26,2011-08-30,,35.350000,140.500000,235.2,Anchovy,ND,,7.2E+00,,1.0E+01,,,,,ND,3.0E-02,ND,3.0E-02,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2011-06-22,2011-08-30,,36.050000,140.783333,154.1,Japanese sardine,ND,,8.2E+00,,1.1E+01,,,,,ND,3.0E-02,ND,3.0E-02,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2011-07-01,2011-08-30,,35.750000,141.300000,187.4,Blue mackerel,ND,,1.1E+00,,3.4E+00,,,,,ND,4.0E-02,ND,3.0E-02,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2011-10-28,2012-11-15,,36.000000,141.000000,158.1,Chub mackerel,ND,,1.1E+01,,1.5E+01,,,,,,,ND,2.5E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2011-11-18,2013-08-01,Suruga bay,,,,Sakura shrimp,ND,,4.7E-02,,9.6E-02,,,,,,,ND,1.9E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2011-12-21,2012-03-09,,37.250000,141.216666,25.1,Blue mackerel,ND,,2.9E+00,,4.2E+00,,,,,ND,4.0E-02,3.0E-02,,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2011-12-21,2012-03-09,,37.216666,141.033333,22.8,Rockfish,ND,,3.9E+02,,5.8E+02,,,,,4.5E-01,,1.2E+00,,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2011-12-21,2012-03-09,,37.250000,141.216666,25.1,Shotted halibut,ND,,1.6E+01,,2.4E+01,,,,,ND,5.0E-02,9.4E-02,,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2011-12-21,2013-08-01,,37.250000,141.216666,25.1,Whitespotted conger,ND,,8.7E+00,,1.3E+01,,,,,,,ND,2.0E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-01-18,2012-05-10,,37.200000,141.016666,24.7,Ishikawashirauo,ND,,1.8E+01,,2.9E+01,,,,,ND,9.0E-02,4.0E-01,,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-02-01,2013-08-01,Hyuganada,,,,Blue mackerel,ND,,7.3E-01,,1.1E+00,,,,,,,ND,1.5E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-02-19,2013-08-01,,36.383333,140.766666,117.8,Black scraper,ND,,2.2E+00,,3.1E+00,,,,,,,ND,2.3E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-02-21,2013-08-01,,35.950000,140.866666,164.3,Blunthead puffer,ND,,9.1E-01,,1.1E+00,,,,,,,ND,1.3E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-06-04,2013-08-01,,38.000000,148.500000,659.9,Neon Flying Squid,ND,,5.0E-02,,1.5E-01,,,,,,,ND,1.1E-02,,,,,,,"Portion measured - muscle for Sr, and Cs"
+2012-06-24,2012-11-15,,42.283333,169.050000,2440.2,Pacific saury,ND,,4.4E-01,,7.8E-01,,,,,,,ND,1.6E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-06-26,2012-11-15,,37.800000,141.233333,45.6,Rockfish,ND,,1.8E+01,,3.3E+01,,,,,,,ND,3.6E-02,,,,,,,"Portion measured - whole body for Sr, and muscle for Cs, and Pu"
+2012-06-30,2014-05-23,,38.983333,151.733333,950.5,Krill,ND,,1.7E-01,,2.4E-01,,,,,ND,2.3E-02,ND,7.7E-03,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-07-21,2013-08-01,,39.666666,142.166666,268.4,Giant Pacific octopus,ND,,4.0E-02,,9.4E-02,,,,,,,ND,1.6E-02,,,,,,,"Portion measured - muscle for Sr, and Cs"
+2012-08-01,2012-11-15,,42.266666,141.366666,539.5,Alaska pollock,ND,,1.7E-01,,3.8E-01,,,,,,,ND,2.5E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-08-06,2013-08-01,,36.500000,141.583333,113.6,Coryphaenoides acrolepis,ND,,2.3E-01,,4.4E-01,,,,,,,ND,2.8E-02,,,,,,,"Portion measured - bony parts for Sr, and Cs"
+2012-08-20,2013-08-01,,36.183333,140.850000,138.6,Japanese sardine,ND,,1.8E-01,,3.9E-01,,,,,,,ND,1.3E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-08-29,2013-08-01,,35.950000,140.933333,163.9,Blue mackerel,ND,,1.8E-01,,4.5E-01,,,,,,,ND,1.3E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-08-29,2013-08-01,,35.766666,140.983333,184.1,Japanese jack mackerel,ND,,4.5E-01,,9.4E-01,,,,,,,ND,1.8E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-09-02,2013-08-01,,33.333333,134.200000,768.0,Round herring,ND,,ND,,1.0E-01,,,,,,,ND,1.8E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-09-02,2013-08-01,,33.333333,134.200000,768.0,Anchovy,ND,,ND,,ND,,,,,,,ND,1.8E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-09-03,2013-08-01,,33.333333,134.200000,768.0,Mahi-mahi,ND,,1.4E-01,,2.9E-01,,,,,,,ND,2.9E-02,,,,,,,"Portion measured - bony parts for Sr, and Cs"
+2012-10-16,2013-08-01,,36.266666,140.916666,128.8,Blue mackerel,ND,,1.4E-01,,3.4E-01,,,,,,,ND,1.7E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-10-17,2013-08-01,,35.350000,141.183333,230.8,KinPacific barrelfish,ND,,4.9E-01,,1.1E+00,,,,,,,ND,2.3E-02,,,,,,,"Portion measured - bony parts for Sr, and Cs"
+2012-10-28,2013-10-25,,44.883333,144.433333,877.0,Alaska pollock,ND,,2.9E-02,,1.1E-01,,,,,ND,3.9E-02,ND,1.6E-02,,,,,,,"Portion measured - whole body without internal organs for Sr, and Cs"
+2012-11-01,2013-08-01,,42.000000,143.116666,539.4,Salmon,ND,,ND,,1.3E-01,,,,,,,ND,1.8E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2012-11-05,2013-08-01,Nemuro Channel,,,,Flounder,ND,,ND,,1.2E-01,,,,,,,ND,2.2E-02,,,,,,,"Portion measured - bony parts for Sr, and Cs"
+2012-11-05,2013-08-01,Nemuro Channel,,,,Black rockfish,ND,,7.9E-01,,1.6E+00,,,,,,,ND,3.2E-02,,,,,,,"Portion measured - bony parts for Sr, and Cs"
+2012-11-08,2013-08-01,,42.416666,140.850000,555.6,Scallop ,ND,,ND,,4.8E-02,,,,,,,ND,1.3E-02,,,,,,,"Portion measured - molluscous part for Sr, and Cs"
+2012-11-09,2013-08-01,Nemuro Channel,,,,Flog sculpin,ND,,4.0E-01,,7.1E-01,,,,,,,ND,2.9E-02,,,,,,,"Portion measured - bony parts for Sr, and Cs"
+2012-11-15,2013-08-01,,24.500000,124.500000,2126.7,Flame snapper,ND,,ND,,9.6E-02,,,,,,,ND,2.3E-02,,,,,,,"Portion measured - bony parts for Sr, and Cs"
+2012-12-12,2013-08-01,,35.566666,141.133333,206.5,Chub mackerel,ND,,1.2E-01,,2.9E-01,,,,,,,ND,1.7E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2013-01-22,2013-10-25,,42.750000,144.500000,661.7,Alaska pollock,ND,,3.0E-02,,1.3E-01,,,,,ND,8.1E-02,ND,1.4E-02,,,,,,,"Portion measured - whole body without internal organs for Sr, and Cs"
+2013-02-15,2013-10-25,,49.433333,155.983333,1793.9,Alaska pollock,ND,,2.2E-02,,1.1E-01,,,,,ND,1.1E-01,ND,1.8E-02,,,,,,,"Portion measured - whole body without internal organs for Sr, and Cs"
+2013-07-29,2014-05-23,,37.266666,141.133333,19.4,Olive flounder,ND,,9.7E-01,,2.6E+00,,,,,ND,8.0E-02,1.6E-02,,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2013-07-29,2014-05-23,,37.316666,141.216666,20.0,Olive flounder,ND,,2.2E+00,,5.0E+00,,,,,ND,9.0E-02,1.8E-02,,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2013-09-11,2014-05-23,,37.300000,141.050000,13.6,Rockfish,ND,,2.3E+01,,5.1E+01,,,,,ND,1.1E+00,2.1E-01,,,,,,,,"Portion measured - whole body without internal organs for Sr, and Cs"
+2013-09-19,2013-11-26,,44.050000,145.250000,817.9,Alaska pollock,ND,,3.2E-02,,1.6E-01,,,,,ND,5.9E-02,ND,1.4E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2013-09-19,2013-11-26,,44.050000,145.250000,817.9,Alaska pollock,ND,,5.8E-02,,1.9E-01,,,,,ND,1.2E-01,ND,1.5E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2013-09-19,2014-01-23,,44.050000,145.250000,817.9,Alaska pollock,ND,,3.2E-02,,1.6E-01,,,,,ND,9.3E-02,ND,1.6E-02,ND,9.3E-04,ND,9.3E-04,,,"Portion measured - whole body for Sr, Cs, and Pu"
+2013-09-19,2014-01-23,,44.050000,145.250000,817.9,Alaska pollock,ND,,5.8E-02,,1.9E-01,,,,,ND,9.2E-02,ND,1.5E-02,ND,9.2E-04,ND,9.2E-04,,,"Portion measured - whole body for Sr, Cs, and Pu"
+2013-09-30,2014-03-13,,37.333333,141.166666,15.4,Redwing searobin,ND,,1.5E+00,,3.2E+00,,,,,ND,4.5E-01,ND,1.5E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2013-09-30,2014-03-13,,37.333333,141.166666,15.4,Olive flounder,ND,,1.9E+00,,6.1E+00,,,,,ND,3.4E-01,2.6E-02,,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2013-10-02,2013-11-26,,42.116666,141.283333,522.5,Alaska pollock,ND,,3.1E-02,,9.4E-02,,,,,ND,9.4E-02,ND,1.6E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2013-10-02,2013-11-26,,42.116666,141.283333,522.5,Alaska pollock,ND,,3.6E-02,,1.6E-01,,,,,ND,3.4E-02,ND,1.3E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2013-10-02,2014-01-23,,42.116666,141.283333,522.5,Alaska pollock,ND,,3.1E-02,,9.4E-02,,,,,ND,8.7E-02,ND,1.5E-02,ND,8.7E-04,ND,8.7E-04,,,"Portion measured - whole body for Sr, Cs, and Pu"
+2013-10-02,2014-01-23,,42.116666,141.283333,522.5,Alaska pollock,ND,,3.6E-02,,1.6E-01,,,,,ND,8.5E-02,ND,1.4E-02,ND,8.5E-04,ND,8.5E-04,,,"Portion measured - whole body for Sr, Cs, and Pu"
+2013-10-07,2014-01-23,,42.450000,140.850000,559.3,Scallop ,ND,,1.6E-02,,3.8E-02,,,,,ND,5.3E-02,ND,8.9E-03,ND,5.3E-04,1.1E-03,,,,"Portion measured - molluscous part for Sr, Cs, and Pu"
+2013-10-07,2014-03-13,,42.450000,140.850000,559.3,Scallop ,ND,,ND,1.7E-02,3.8E-02,,,,,ND,9.8E-02,ND,1.2E-02,,,,,,,"Portion measured - molluscous part for Sr, and Cs"
+2013-11-24,2014-03-13,,37.316666,141.150000,15.6,Stone flounder,ND,,1.9E+00,,4.9E+00,,,,,ND,2.9E-01,ND,1.5E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2013-11-24,2014-03-13,,37.316666,141.150000,15.6,Crimson sea bream,ND,,1.2E+00,,3.0E+00,,,,,ND,4.3E-01,ND,2.4E-02,,,,,,,"Portion measured - whole body for Sr, and Cs"
+2013-12-19,2014-02-05,Miyagi prefecture Shichigahama chisaki,,,,Laver,ND,,ND,6.0E-02,8.4E-02,,,,,ND,5.2E-01,6.9E-02,,,,,,,,Portion measured - whole body
+2013-12-19,2014-02-05,Miyagi prefecture Shichigahama chisaki,,,,Wakame seaweed,ND,,4.0E-02,,8.2E-02,,,,,ND,4.0E-01,5.5E-02,,,,,,,,Portion measured - whole body
+2014-06-26,2014-11-27,,43.533333,170.833333,2595.2,Pacific saury,ND,,1.5E-01,,4.9E-01,,,,,ND,2.9E-02,ND,7.7E-03,,,,,,,"Portion measured - whole body without internal organs for Sr, and Cs"
+2014-07-08,2014-11-27,,37.333333,141.083333,10.8,Spiny dogfish,ND,,9.7E-01,,3.0E+00,,,,,ND,4.3E-02,ND,8.7E-03,,,,,,,"Portion measured - whole body without internal organs for Sr, and Cs"
+2014-07-09,2014-11-27,,37.466666,141.116666,9.0,Beach conger,ND,,9.1E-01,,2.7E+00,,,,,ND,4.8E-02,ND,1.1E-02,,,,,,,"Portion measured - whole body without internal organs for Sr, and Cs"
+2014-07-09,2014-11-27,,37.466666,141.333333,27.0,Pacific cod,ND,,9.5E-01,,2.9E+00,,,,,ND,5.8E-02,ND,1.1E-02,,,,,,,"Portion measured - whole body without internal organs for Sr, and Cs"
+2014-09-01,2015-03-30,,33.266666,132.533333,898.1,Red sea bream,ND,,ND,3.6E-02,1.1E-01,,,,,ND,2.3E-01,ND,3.3E-02,ND,2.3E-03,ND,2.4E-03,ND,1.8E-03,Portion measured - whole body (without internal organs)
+2014-09-04,2015-03-30,,45.966666,153.500000,1402.1,Pacific saury,ND,,2.9E-02,,1.3E-01,,,,,ND,7.4E-02,ND,1.0E-02,ND,1.1E-03,ND,1.1E-03,ND,7.9E-04,Portion measured - whole body
+2014-09-09,2015-03-30,Iwate prefecture Ryori Maehama,,,,Halocynthia roretzi,ND,,4.2E-02,,1.2E-01,,,,,ND,5.5E-02,ND,9.5E-03,ND,4.1E-04,ND,4.1E-04,ND,4.2E-04,Portion measured - whole body (edible portion)
+2014-09-09,2015-03-30,Miyagi prefecture Onagawa bay Oshika Peninsula east,,,,Halocynthia roretzi,ND,,1.7E-02,,7.0E-02,,,,,ND,8.4E-02,ND,1.3E-02,ND,1.0E-03,ND,1.0E-03,ND,1.1E-03,Portion measured - whole body (edible portion)
+2014-09-16,2015-03-30,,38.350000,142.383333,157.2,Alaska pollock,ND,,5.7E-02,,2.7E-01,,,,,ND,1.1E-01,ND,1.7E-02,ND,8.6E-04,ND,8.1E-04,ND,7.0E-04,Portion measured - whole body (without internal organs)
+2014-09-16,2015-03-30,,33.266666,132.533333,898.1,Red sea bream,ND,,ND,3.4E-02,1.2E-01,,,,,ND,2.1E-01,ND,3.3E-02,ND,2.7E-03,ND,2.3E-03,ND,1.3E-03,Portion measured - whole body (without internal organs)
+2014-09-18,2015-03-30,Miyagi prefecture Onagawa bay Oshika Peninsula east,,,,Scallop ,ND,,3.0E-02,,6.4E-02,,,,,ND,7.4E-02,ND,1.2E-02,ND,6.3E-04,ND,6.3E-04,ND,4.1E-04,Portion measured - whole body (edible portion)
+2014-09-28,2015-03-30,,40.750000,141.966666,378.8,Blue mackerel,ND,,3.1E-02,,1.6E-01,,,,,ND,8.4E-02,ND,1.5E-02,ND,1.2E-03,ND,1.3E-03,ND,6.3E-04,Portion measured - whole body (without internal organs)
+2014-09-28,2015-03-30,,40.866666,141.816666,389.0,Blue mackerel,ND,,2.4E-02,,1.3E-01,,,,,ND,8.4E-02,ND,1.6E-02,ND,1.3E-03,ND,1.3E-03,ND,6.7E-04,Portion measured - whole body (without internal organs)
+2014-09-29,2015-03-30,Miyagi prefecture Utatsu Koizumi Isatomae beach,,,,Halocynthia roretzi,ND,,2.9E-02,,1.0E-01,,,,,ND,5.9E-02,ND,1.1E-02,ND,1.5E-03,ND,1.3E-03,ND,1.2E-03,Portion measured - whole body (edible portion)
+2014-09-30,2015-03-30,,38.000000,175.000000,2972.0,Mako,ND,,1.9E-01,,9.0E-01,,,,,ND,6.7E-02,ND,1.3E-02,ND,1.1E-03,ND,1.1E-03,ND,4.2E-04,Portion measured - whole body (without internal organs and head)
+2014-09-30,2015-03-30,,38.000000,175.000000,2972.0,Mako,ND,,2.3E-01,,1.0E+00,,,,,ND,5.7E-02,ND,1.0E-02,ND,9.4E-04,ND,9.4E-04,ND,4.3E-04,Portion measured - whole body (without internal organs and head)
+2014-10-15,2015-03-30,,40.933333,141.183333,390.7,Scallop ,ND,,ND,2.2E-02,ND,2.9E-02,,,,ND,4.8E-02,ND,1.1E-02,ND,9.5E-04,2.2E-03,,1.5E-03,,Portion measured - whole body (edible portion)
+2015-03-15,2015-07-31,,37.333333,141.100000,11.5,Rockfish,,,1.7E+00,,6.8E+00,,,,,ND,3.2E-01,4.3E-02,,,,,,,,Portion measured - whole body (without internal organs)
+2015-03-15,2015-08-01,,37.333333,141.100000,11.5,Rockfish,,,2.4E+00,,9.1E+00,,,,,ND,3.6E-01,4.9E-02,,,,,,,,Portion measured - whole body (without internal organs)
+2015-04-07,2015-06-30,,36.883333,140.800000,63.3,Japanese sandlance,,,1.7E-01,,5.9E-01,,,,,ND,1.4E-02,ND,5.6E-03,,,,,,,Portion measured - whole body
+2015-04-07,2015-06-30,,36.883333,140.800000,63.3,Japanese sandlance,,,2.4E-01,,9.7E-01,,,,,ND,1.8E-02,ND,4.0E-03,,,,,,,Portion measured - whole body
+2015-04-14,2015-10-08,,40.916666,141.766666,393.7,Alaska pollock,,,2.4E-02,,1.2E-01,,,,,ND,1.3E-01,ND,7.8E-03,,,,,,,Portion measured - whole body (without internal organs)
+2015-04-14,2015-10-08,,40.916666,141.766666,393.7,Pacific cod,,,7.0E-01,,2.6E+00,,,,,ND,6.5E-02,ND,3.8E-03,,,,,,,Portion measured - whole body (without internal organs)
+2015-04-17,2015-10-08,,37.616666,141.600000,54.6,Alaska pollock,,,6.2E-02,,2.9E-01,,,,,ND,6.0E-02,ND,6.4E-03,,,,,,,Portion measured - whole body (without internal organs)
+2015-04-17,2015-10-08,,37.616666,141.600000,54.6,Pacific cod,,,6.6E-02,,2.8E-01,,,,,ND,7.3E-02,ND,6.1E-03,,,,,,,Portion measured - whole body (without internal organs)
+2015-04-20,2015-06-30,,37.883333,141.016666,51.4,Japanese sandlance,,,1.8E-01,,6.8E-01,,,,,ND,1.2E-02,ND,4.5E-03,,,,,,,Portion measured - whole body
+2015-04-20,2015-06-30,,37.883333,141.016666,51.4,Japanese sandlance,,,2.0E-01,,7.3E-01,,,,,ND,1.5E-02,ND,4.2E-03,,,,,,,Portion measured - whole body
+2015-07-14,2015-10-08,,37.783333,141.016666,40.2,Whitebait,,,4.2E-02,,2.1E-01,,,,,ND,6.2E-02,ND,2.7E-03,,,,,,,Portion measured - whole body
+2015-07-14,2015-10-08,,37.783333,141.016666,40.2,Whitebait,,,4.4E-02,,2.7E-01,,,,,ND,1.2E-02,ND,3.5E-03,,,,,,,Portion measured - whole body
